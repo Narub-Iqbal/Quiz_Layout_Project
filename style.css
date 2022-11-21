@@ -1,0 +1,101 @@
+#btn{
+	color: #cd2b08;
+	background: #030100;
+	padding: 20px 50px;
+	margin-left: 5%;
+	margin-top: 2%;
+	text-align: left;
+	font-size: 100%;
+}
+#marquee{
+	padding:  40px 90px;
+	margin-top: 1%;
+	background: rgba( 0, 50, 80, 0.5);
+	color: #ffffff;
+	font-size: 300%;
+}
+
+#frm{
+	border: solid black 2px;
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	border-radius: 5px;
+	margin: 0 auto;
+margin-top: 160px;
+	background:rgba( 0, 50, 80, 0.5);
+	padding: 50px;
+}
+#btn2{
+	color: #cd2b08;
+	background: #030100;
+	padding: 5px;
+	margin-left: 69%;
+	padding: 20px 50px;
+	margin-top: 2%;
+	text-align: left;
+	font-size: 100%;
+}
+#img{
+	width: 150px;
+	height: 150px;
+	margin-top: -60px;
+	margin-right: 30px;
+	text-align: center;
+border-radius: 150px;
+}
+#user{
+	color:#cd2b08;
+	text-align:center;
+	
+}
+#pass{
+	color:#cd2b08;
+text-align:center;
+}
+#p_user{
+	text-align:auto;
+	margin-left:40px;
+	margin-right:40px;
+}
+#frm1{
+    border: solid black 2px;
+	width: 500px;
+	height: 190px;
+	text-align: center;
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-top: 160px;
+	background:rgba( 0, 50, 80, 0.5);
+	padding: 50px;
+}
+#p1{
+	font-size:40px;
+}
+#check{
+	width:20px;
+	height:20px;
+}
+#button3{
+	color: #cd2b08;
+	background: #030100;
+	padding: 5px;
+	margin-left: 69%;
+	padding: 20px 50px;
+	margin-top: 2%;
+	text-align: left;
+	font-size: 100%;
+}
+#button4{
+	color: #cd2b08;
+	background: #030100;
+	padding: 5px;
+	margin-left: 69%;
+	padding: 20px 50px;
+	margin-top: 2%;
+	text-align: left;
+	font-size: 100%;
+}
+#p2{
+	font-size:20px;
+}
